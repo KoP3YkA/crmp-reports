@@ -1,0 +1,4 @@
+name: crmpreports
+version: '1.0-SNAPSHOT'
+main: net.kopeyka.crmpreports.Crmpreports
+api-version: '1.21'
